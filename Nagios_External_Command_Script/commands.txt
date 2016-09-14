@@ -1,0 +1,3 @@
+ADD_SVC_COMMENT;test-host01;test Service;1;test_user;MY COMMENT
+DISABLE_SVC_NOTIFICATIONS;test-host01;test service
+#DISABLE_SVC_NOTIFICATIONS;test-host02;test service
